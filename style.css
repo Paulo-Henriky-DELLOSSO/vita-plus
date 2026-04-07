@@ -1,0 +1,17 @@
+:root {
+
+    /* cores: */
+    --cor-secundaria: #25362A;
+
+    /*fontes */
+    --fonte-primaria: 'Montserrat', sans-serif;
+
+}
+
+.logo {
+    width: 80px;
+}
+
+.icone {
+    width: 40px;
+}
